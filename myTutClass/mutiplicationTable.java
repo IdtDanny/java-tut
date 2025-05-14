@@ -1,4 +1,4 @@
-package myOopClass;
+
 
 import java.util.Scanner;
 

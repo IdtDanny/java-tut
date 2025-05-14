@@ -1,4 +1,4 @@
-package myOopClass;
+package myTutClass;
 
 //Importing Scanner class for reading the user input ...
 import java.util.Scanner;
